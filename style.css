@@ -3,6 +3,10 @@ body {
   font-size: 16px;
 }
 
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 textarea {
   background: transparent;
   border: none;
